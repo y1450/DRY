@@ -1,6 +1,8 @@
 # DRY
 
 This is mono repo containing code I don't want to rewrite.
+It also acts as a inbox for me to capture any code,tutorial that might be
+useful in the future.
 
 Motivation
 
